@@ -15,3 +15,4 @@
        7.Template Matching
        8.Watershed Algorithm (Image Segmentation algorithm)
        9.Russian License Plate Detection and Blur (Haar Cascades trained file on Russian number plates)
+       10.Fingers Detection and Fingers counting in real time.
